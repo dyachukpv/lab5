@@ -163,7 +163,7 @@ a = Travel()
 a.count_file()
 
 print(a.data_output())
-print("Вывод исходных данных, где номер(number)>3")
+print("Вывод  данных, где номер(number)>3")
 a.sortt()
 a.sortirovka()
 a.writer_csv()
